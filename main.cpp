@@ -5,6 +5,11 @@
 //une fct estadmis renvoyant true or false indiquant si >10  true/false
 // gerer un ens d etudiants avec un tab , dev fct addetudiant ds un tab -- rechercheetudiant -- deletedudiant   
 
+
+//oussama belhaoudi
+//abedlilah belhaj
+
+
 #include <iostream>
 #include<string>
 #include"etud.h"
